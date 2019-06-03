@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LinkPreView_Example' do
+  pod 'LinkPreView', :path => '../'
+
+  target 'LinkPreView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,22 @@
+{
+  "name": "LinkPreView",
+  "version": "0.1.0",
+  "summary": "A short description of LinkPreView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/beautilut@gmail.com/LinkPreView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "beautilut@gmail.com": "Beautilut.cai@ximalaya.com"
+  },
+  "source": {
+    "git": "https://github.com/beautilut@gmail.com/LinkPreView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LinkPreView/Classes/**/*"
+}

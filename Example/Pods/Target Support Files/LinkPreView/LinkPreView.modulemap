@@ -1,0 +1,6 @@
+framework module LinkPreView {
+  umbrella header "LinkPreView-umbrella.h"
+
+  export *
+  module * { export * }
+}

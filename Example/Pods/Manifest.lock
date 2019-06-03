@@ -1,0 +1,16 @@
+PODS:
+  - LinkPreView (0.1.0)
+
+DEPENDENCIES:
+  - LinkPreView (from `../`)
+
+EXTERNAL SOURCES:
+  LinkPreView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LinkPreView: fd5278c06a9f39986c4c64d6fe131ccb4ebcd789
+
+PODFILE CHECKSUM: a54da9ffe099adfc815d0c2e5d77de065e851f15
+
+COCOAPODS: 1.6.1
